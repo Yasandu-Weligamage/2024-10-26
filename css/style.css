@@ -16,10 +16,6 @@
     padding-bottom: 30px;
     padding-left: 30px;
     padding-right: 30px; */
-
-    
-
-
 }
 
 
@@ -27,4 +23,12 @@
     background-color: red;
     text-align: center;
     font-size: larger;
+}
+
+body{
+    background-image:url(../img/south-tyrol-8023213_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
 }
